@@ -34,7 +34,7 @@ Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atrac
 
 </p>
 
-<h2 align="left">Latest YouTube Videos 🎥</h2>
+<h2 align="left">ALGUNOS PROYECTOS 📂</h2>
 <table>
   <tr>
     <td align="center">
