@@ -15,7 +15,7 @@
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
 🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS CURSANDO EL OCTAVO SEMESTRE <br>
-Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atractivas, utilizando diferentes tecnologías como HTML, CSS y JavaScript. Busco mejorar mis habilidades y participaren nuevos retos y oportunidades.
+Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atractivas, utilizando diferentes tecnologías como HTML, CSS y JavaScript. Busco mejorar mis habilidades y participar en nuevos retos y oportunidades.
 
 </p>
 
