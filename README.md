@@ -39,7 +39,7 @@ Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atrac
   <tr>
     <td align="center">
       <a href="https://pedrojql.github.io/TRADUCTOR_Q/" target="_blank">
-        <img src="Imagenes/5145433312838397739.jpg" alt="Tradcutor de Queqchi" width="300" />
+        <img src="imgs/2.pngg" alt="Tradcutor de Queqchi" width="300" />
       </a>
     </td>
     <td align="center">
