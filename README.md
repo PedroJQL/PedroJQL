@@ -1,5 +1,4 @@
-<!-- Banner -->
-<img src="Imagenes/pixelcut-export (3).png" alt="Banner" width="100%">
+
 
 <h1 align="center">Hola 👋, soy Pedro Quiñonez ✨</h1>
 
@@ -15,7 +14,7 @@
 <br>
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
-🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS CURSANDO EL OCTAVO SEMESTRE 
+🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS CURSANDO EL OCTAVO SEMESTRE <br>
 Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atractivas, utilizando diferentes tecnologías como HTML, CSS y JavaScript. Busco mejorar mis habilidades y participaren nuevos retos y oportunidades.
 
 </p>
