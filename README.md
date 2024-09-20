@@ -15,14 +15,9 @@
 <br>
 <h2 align="left">Sobre mí 😃</h2>
 <p align="left">
-🎓 SYSTEMS ENGINEER STUDENT (+2 Years)  
-Passionate about technology and solving problems through code.
+🎓 ESTUDIANTE DE INGENIERIA EN SISTEMAS CURSANDO EL OCTAVO SEMESTRE 
+Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atractivas, utilizando diferentes tecnologías como HTML, CSS y JavaScript. Busco mejorar mis habilidades y participaren nuevos retos y oportunidades.
 
-🎥 CONTENT CREATOR  
-I share my knowledge 📚 on social media, teaching based on extensive study 😵 and hands-on programming experience.
-
-📝 Roles in the field  
-Developer, entrepreneur, freelance programmer with over 3 years of experience, and who knows what the future holds ☺️.
 </p>
 
 ### Skills
