@@ -38,8 +38,8 @@ Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atrac
 <table>
   <tr>
     <td align="center">
-      <a href="https://youtu.be/_UA5bqS3ro8?si=jeoh_1sTPVapKJ4b" target="_blank">
-        <img src="Imagenes/5145433312838397739.jpg" alt="Programmers Need More Math" width="300" />
+      <a href="https://pedrojql.github.io/TRADUCTOR_Q/" target="_blank">
+        <img src="Imagenes/5145433312838397739.jpg" alt="Tradcutor de Queqchi" width="300" />
       </a>
       <p><b>App Escritorio(MVC,MySQL,Xampp)</b></p>
       <p>29K views • 2 weeks ago</p>
