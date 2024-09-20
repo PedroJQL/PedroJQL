@@ -5,10 +5,6 @@
 
 <p align="center">
 
-  
-  <a href="https://www.facebook.com/profile.php?id=100092378391816&mibextid=ZbWKwL" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Facebook-007BFF?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev" />
-  </a>
   <a href="mailto:pedro.quinonezlopez1@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-4CAF50?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev" />
   </a>
