@@ -41,23 +41,13 @@ Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atrac
       <a href="https://pedrojql.github.io/TRADUCTOR_Q/" target="_blank">
         <img src="Imagenes/5145433312838397739.jpg" alt="Tradcutor de Queqchi" width="300" />
       </a>
-      <p><b>App Escritorio(MVC,MySQL,Xampp)</b></p>
-      <p>29K views • 2 weeks ago</p>
     </td>
     <td align="center">
       <a href="https://pedrojql.github.io/CALCULADORA/" target="_blank">
         <img src="Imagenes/5145433312838397740.jpg" alt="CALCULADORA WEB" width="300" />
       </a>
-      <p><b>Create Database MySQL Java</b></p>
-      <p>17K views • 2 weeks ago</p>
     </td>
-    <td align="center">
-      <a href="https://youtu.be/EE23Koza6_w?si=iQu9EMdfhPPbKS_A" target="_blank">
-        <img src="Imagenes/PHP LOGIN P1.png" alt="Everything You Need to Know About Git" width="300" />
-      </a>
-      <p><b>Everything You Need to Know About Git</b></p>
-      <p>17K views • 3 weeks ago</p>
-    </td>
+  
   </tr>
 </table>
 
