@@ -44,7 +44,7 @@ Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atrac
     </td>
     <td align="center">
       <a href="https://pedrojql.github.io/CALCULADORA/" target="_blank">
-        <img src="Imagenes/5145433312838397740.jpg" alt="CALCULADORA WEB" width="300" />
+        <img src="imgs/1.png" alt="CALCULADORA WEB" width="300" />
       </a>
     </td>
   
