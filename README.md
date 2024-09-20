@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="Imagenes/pixelcut-export (3).png" alt="Banner" width="100%">
 
-<h1 align="center">Hola 👋, soy Carlos Marrugo / @carlosdev ✨</h1>
+<h1 align="center">Hola 👋, soy Pedro Quiñonez ✨</h1>
 
 <p align="center">
   <a href="https://www.youtube.com/@ProgramacionCMV-sb3zx/featured" target="blank">
