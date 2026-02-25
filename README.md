@@ -49,6 +49,12 @@ Soy un desarrollador web Front-end. Me intereso por crear aplicaciones web atrac
         <p><b>CALCULADORA</b></p>
       </a>
     </td>
+     <td align="center">
+      <a href="https://github.com/PedroJQL/pqDate.git" target="_blank">
+        <img src="" alt="Libreria Javascript" width="300" />
+        <p><b>CALCULADORA</b></p>
+      </a>
+    </td>
   
   </tr>
 </table>
